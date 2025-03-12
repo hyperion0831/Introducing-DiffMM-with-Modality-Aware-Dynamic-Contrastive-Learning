@@ -1,0 +1,2 @@
+# Introducing DiffMM with Modality-Aware Dynamic Contrastive Learning
+ In the existing DiffMM framework, current methods apply fixed contrastive weights to all modalities, ignoring the dynamic importance of different modalities to user preferences. This improvement enhances the contrastive learning mechanism through adaptive weight allocation, dynamically adjusting the contrastive weights of different modalities. It strengthens the contrastive signals of important modalities while suppressing the influence of noisy modalities.
